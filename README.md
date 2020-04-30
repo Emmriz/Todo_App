@@ -1,2 +1,4 @@
 # Todo_App
-An App that help you manage your daily activities so that none of your task are left undone. It has a record keeping of your finished and unfinished take for you to view
+Input your daily task in to the "Add new task" then click the "+" or hit the enter key to send you task.
+This will be displayed down for you to view what you have entered.
+click the check button for completed task and delete button to delete task
